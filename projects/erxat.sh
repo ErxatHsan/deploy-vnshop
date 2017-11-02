@@ -5,7 +5,7 @@ WEB_PATH_CLIENT='/home/wwwroot/erxat/client'
 WEB_USER='www'
 WEB_USERGROUP='www'
  
-echo "Start deployment hh.erxat.top"
+echo "Start deployment m.erxat.top"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
